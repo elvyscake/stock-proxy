@@ -1,0 +1,17 @@
+{
+  "name": "stock-proxy",
+  "version": "1.0.0",
+  "type": "module"
+}
+```
+
+4. Click **"Commit changes"**
+
+### **Paso 3: Verifica que se vea así**
+Cuando hagas click en `package.json` en GitHub, debe verse **exactamente** así (5 líneas):
+```
+{
+  "name": "stock-proxy",
+  "version": "1.0.0",
+  "type": "module"
+}
